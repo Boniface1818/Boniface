@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Boniface Kagunda</h1>
 <h3 align="center">A passionate Software Developer with a strong interest in Web Development</h3>
 
-- 📫 How to reach me: [**kagundaboniface98@gmail.com**](mailto:kagundaboniface98@gmail.com)  
-- ⚡ Fun fact: **Tech is full of new opportunities!**
+<p align="center">
+📫 How to reach me: <a href="mailto:kagundaboniface98@gmail.com"><strong>kagundaboniface98@gmail.com</strong></a><br>
+⚡ Fun fact: <strong>Tech is full of new opportunities!</strong>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
