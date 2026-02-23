@@ -1,31 +1,57 @@
-<h1 align="center">Hi 👋, I'm Boniface Kagunda</h1>
-<h3 align="center">A passionate Software Developer with a strong interest in Web Development</h3>
+<div align="center" style="background: linear-gradient(135deg, #1b1b2f, #222240); padding: 30px; border-radius: 20px; color: #c5c6c7;">
 
-- 📫 How to reach me: **kagundaboniface98@gmail.com**  
-- ⚡ Fun fact: **Tech is full of new opportunities!**
+<h1>Hi <span class="wave">👋</span>, I'm Boniface Kagunda</h1>
+<h3>A passionate Software Developer with a strong interest in Web Development</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/boniface-kagunda-625476388" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Boniface1818" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
+<p>
+📫 How to reach me: <strong>kagundaboniface98@gmail.com</strong><br>
+⚡ Fun fact: <strong>Tech is full of new opportunities!</strong>
 </p>
 
-<h3 align="left">Tech Stack 🛠️</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<h3>Connect with me:</h3>
+<p>
+<a href="https://www.linkedin.com/in/boniface-kagunda-625476388" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://github.com/Boniface1818" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Fun Badges 🎉</h3>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Boniface1818&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/languages/top/Boniface1818?style=flat-square" alt="Top Language"/>
-  <img src="https://img.shields.io/badge/Status-Coding%20💻-green?style=flat-square" alt="Coding Status"/>
+<h3>Tech Stack 🛠️</h3>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" width="40"/>
 </p>
+
+<h3>Fun Badges 🎉</h3>
+<p>
+<img src="https://komarev.com/ghpvc/?username=Boniface1818&style=flat-square&color=blue" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Top%20Language-Python-blue?style=flat-square&logo=python" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript" alt="JS Badge"/>
+<img src="https://img.shields.io/badge/Web-HTML5-orange?style=flat-square&logo=html5" alt="HTML5 Badge"/>
+</p>
+
+</div>
+
+<!-- Animated waving hand -->
+<style>
+@keyframes wave {
+  0% { transform: rotate(0deg); }
+  15% { transform: rotate(14deg); }
+  30% { transform: rotate(-8deg); }
+  45% { transform: rotate(14deg); }
+  60% { transform: rotate(-4deg); }
+  75% { transform: rotate(10deg); }
+  100% { transform: rotate(0deg); }
+}
+.wave {
+  display: inline-block;
+  animation: wave 2s infinite;
+  transform-origin: 70% 70%;
+}
+</style>
